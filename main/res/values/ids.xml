@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="radioGroup" type="id" />
+    <item name="textView6" type="id" />
+    <item name="textView4" type="id" />
+    <item name="rdbLaki" type="id" />
+    <item name="rdbPerempuan" type="id" />
+    <item name="btncek" type="id" />
+    <item name="hasilideal" type="id" />
+    <item name="hasilket1" type="id" />
+    <item name="edittinggi" type="id" />
+    <item name="editnama" type="id" />
+    <item name="editberat" type="id" />
+    <item name="btnexit" type="id" />
+    <item name="hasilket2" type="id" />
+    <item name="textView" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView5" type="id" />
+    <item name="btnclear" type="id" />
+</resources>

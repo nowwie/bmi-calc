@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="cek_in" />
+    <string name="clear" />
+    <string name="masukkan_berat_badan" />
+    <string name="berat_badan" />
+    <string name="tinggi" />
+    <string name="nama" />
+    <string name="exit" />
+    <string name="masukkan_nama" />
+    <string name="jenis_kelamin" />
+    <string name="masukkan_tinggi_badan" />
+    <string name="hasil_diagnosis" />
+    <string name="perempuan" />
+    <string name="laki_laki" />
+    <string name="cek_berat_badan" />
+</resources>
